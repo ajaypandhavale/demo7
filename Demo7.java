@@ -6,6 +6,7 @@ public static void main(String[] args){
 
     System.out.println("updating to ignore");
 
+    System.out.println("pushing code to repo");
 
 
 }
