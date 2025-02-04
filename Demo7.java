@@ -20,7 +20,9 @@ public static void main(String[] args){
 
     System.out.println("pushing code to main branch 3");
 
+    System.out.println("pushing code to update but not to main branch");
 
+    System.out.println("pushing code to update also to main branch");
 }
 
 
