@@ -8,8 +8,11 @@ public static void main(String[] args){
 
     System.out.println("updating to repo ");
 
+    System.out.println("pushing code to repo");
 
     System.out.println("pulling from repo ");
+
+    System.out.println("pushing code to main branch");
 
 }
 
