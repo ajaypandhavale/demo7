@@ -12,7 +12,7 @@ public static void main(String[] args){
 
     System.out.println("pulling from repo ");
 
-    System.out.println("pushing code to man branch");
+    System.out.println("pushing code to main branch");
 
 }
 
