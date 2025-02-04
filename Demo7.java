@@ -22,6 +22,10 @@ public static void main(String[] args){
 
     System.out.println("pushing code to update but not to main branch");
 
+    System.out.println("pushing code to update also to main branch");
+
+    System.out.println("pushing code to update but not to main branch 2");
+
 }
 
 
